@@ -8,8 +8,8 @@ It shows the temperature, sky condition (☁️ Cloudy, 🌧️ Rainy, ☀️ Su
 ## 📱 Screenshots
 
 <p align="left">
-  <img src="Document/screenshot1.png" alt="Home Screen" width="250" />
-  <img src="Document/screenshot2.png" alt="Home Screen" width="250" />
+  <img src="Document/screenshot3.png" alt="Home Screen" width="250" />
+  <img src="Document/screenshot4.png" alt="Home Screen" width="250" />
 </p>
 
 ---
